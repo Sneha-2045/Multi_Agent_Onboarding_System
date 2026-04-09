@@ -1,0 +1,2 @@
+lead_id,name,phone,email,city,vehicle_type,vehicle_count,aadhaar_status,bank_status,rc_status,app_installed,preferred_channel,remarks
+1,Ravi,9876543210,ravi@gmail.com,Delhi,Truck,2,pending,pending,pending,no,whatsapp,new
